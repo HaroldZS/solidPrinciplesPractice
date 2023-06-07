@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace SingleResponsability
+namespace SingleResponsibility
 {
     public class FakeStorage<T>
     {

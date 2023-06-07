@@ -1,4 +1,4 @@
-namespace SingleResponsability
+namespace SingleResponsibility
 {
     public class Student
     {
